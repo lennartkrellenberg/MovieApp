@@ -11,7 +11,7 @@ The app gets the data from the Movie Database.
 - [themovieDB](https://www.themoviedb.org/)
 - [Tutorial](https://www.youtube.com/watch?v=soTEOI_rIIQ&t=509s)
 
-<img src="https://github.com/lennartkrellenberg/MovieApp/blob/master/MovieApp.png" alt="" width="300"/>
+<img src="https://github.com/lennartkrellenberg/MovieApp/blob/main/MovieApp.PNG" alt="" width="300"/>
 
 ## Setup
 
